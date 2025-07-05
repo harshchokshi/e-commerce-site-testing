@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-03T00:52:37 AEST" name="Suite" finished-at="2025-07-03T00:52:54 AEST" duration-ms="17301">
+    <groups>
+    </groups>
+    <test started-at="2025-07-03T00:52:37 AEST" name="Test" finished-at="2025-07-03T00:52:54 AEST" duration-ms="17301">
+      <class name="tests.CartPageTest">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:tests.CartPageTest@3857f613]" started-at="2025-07-03T00:52:48 AEST" name="startTest" finished-at="2025-07-03T00:52:48 AEST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.CartPageTest.verifyaddtocardFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="verifyaddtocardFunctionality()[pri:1, instance:tests.CartPageTest@3857f613]" started-at="2025-07-03T00:52:48 AEST" name="verifyaddtocardFunctionality" finished-at="2025-07-03T00:52:50 AEST" duration-ms="2555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyaddtocardFunctionality -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:tests.CartPageTest@3857f613]" started-at="2025-07-03T00:52:50 AEST" name="endTest" finished-at="2025-07-03T00:52:50 AEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- tests.CartPageTest -->
+      <class name="tests.SignInPageTest">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:tests.SignInPageTest@15de0b3c]" started-at="2025-07-03T00:52:40 AEST" name="startTest" finished-at="2025-07-03T00:52:40 AEST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.SignInPageTest.verifySignInFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="verifySignInFunctionality()[pri:1, instance:tests.SignInPageTest@15de0b3c]" started-at="2025-07-03T00:52:40 AEST" name="verifySignInFunctionality" finished-at="2025-07-03T00:52:44 AEST" duration-ms="3667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignInFunctionality -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:tests.SignInPageTest@15de0b3c]" started-at="2025-07-03T00:52:44 AEST" name="endTest" finished-at="2025-07-03T00:52:44 AEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- tests.SignInPageTest -->
+      <class name="tests.SignUpPageTest">
+        <test-method is-config="true" signature="startTestSuite()[pri:0, instance:tests.SignUpPageTest@7eac9008]" started-at="2025-07-03T00:52:32 AEST" name="startTestSuite" finished-at="2025-07-03T00:52:37 AEST" duration-ms="4528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestSuite -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:tests.SignUpPageTest@7eac9008]" started-at="2025-07-03T00:52:37 AEST" name="startTest" finished-at="2025-07-03T00:52:37 AEST" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.SignUpPageTest.verifyLandingPage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="verifyLandingPage()[pri:1, instance:tests.SignUpPageTest@7eac9008]" started-at="2025-07-03T00:52:37 AEST" name="verifyLandingPage" finished-at="2025-07-03T00:52:37 AEST" duration-ms="378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLandingPage -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:tests.SignUpPageTest@7eac9008]" started-at="2025-07-03T00:52:37 AEST" name="endTest" finished-at="2025-07-03T00:52:37 AEST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:tests.SignUpPageTest@7eac9008]" started-at="2025-07-03T00:52:37 AEST" name="startTest" finished-at="2025-07-03T00:52:37 AEST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.SignUpPageTest.verifyRegisterFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="verifyRegisterFunctionality()[pri:2, instance:tests.SignUpPageTest@7eac9008]" started-at="2025-07-03T00:52:37 AEST" name="verifyRegisterFunctionality" finished-at="2025-07-03T00:52:40 AEST" duration-ms="2640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterFunctionality -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:tests.SignUpPageTest@7eac9008]" started-at="2025-07-03T00:52:40 AEST" name="endTest" finished-at="2025-07-03T00:52:40 AEST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="endTestSuite()[pri:0, instance:tests.SignUpPageTest@7eac9008]" started-at="2025-07-03T00:52:54 AEST" name="endTestSuite" finished-at="2025-07-03T00:52:57 AEST" duration-ms="2305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTestSuite -->
+      </class> <!-- tests.SignUpPageTest -->
+      <class name="tests.ProductPageTest">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:tests.ProductPageTest@489115ef]" started-at="2025-07-03T00:52:44 AEST" name="startTest" finished-at="2025-07-03T00:52:44 AEST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.ProductPageTest.verifyProductSearchFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="verifyProductSearchFunctionality()[pri:1, instance:tests.ProductPageTest@489115ef]" started-at="2025-07-03T00:52:44 AEST" name="verifyProductSearchFunctionality" finished-at="2025-07-03T00:52:48 AEST" duration-ms="3789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductSearchFunctionality -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:tests.ProductPageTest@489115ef]" started-at="2025-07-03T00:52:48 AEST" name="endTest" finished-at="2025-07-03T00:52:48 AEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- tests.ProductPageTest -->
+      <class name="tests.OrderPageTest">
+        <test-method signature="verifyorderplacingFunctionality()[pri:1, instance:tests.OrderPageTest@198b6731]" started-at="2025-07-03T00:52:50 AEST" name="verifyorderplacingFunctionality" finished-at="2025-07-03T00:52:54 AEST" duration-ms="4186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyorderplacingFunctionality -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:tests.OrderPageTest@198b6731]" started-at="2025-07-03T00:52:50 AEST" name="startTest" finished-at="2025-07-03T00:52:50 AEST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.OrderPageTest.verifyorderplacingFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:tests.OrderPageTest@198b6731]" started-at="2025-07-03T00:52:54 AEST" name="endTest" finished-at="2025-07-03T00:52:54 AEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- tests.OrderPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
