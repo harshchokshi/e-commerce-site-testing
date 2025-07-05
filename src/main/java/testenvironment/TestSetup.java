@@ -85,7 +85,7 @@ public class TestSetup {
     }
     
     String username = generateUsername();
-    String password = "Admin@123"; 
+    String password = "06ce28ed-1d9d-4a5f-9c50-4f3370749661"; 
     String productCategory = "Laptops"; 
     String name = "Gal Ritiche";
     String productName = "2017 Dell 15.6 Inch"; 
